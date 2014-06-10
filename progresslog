@@ -1,0 +1,23 @@
+Legend:
+- To do
+X Done
+P partial
+F Failed
+C Currently in progress
+
+Alpha:
+  X Start project
+  X Base classes
+    X Mutator
+    X Clone
+  X Initial clone behavior
+  X Voicing
+  - Explosion effects
+  - Configuration
+Beta:
+  - Bugfixing
+  - Optimization
+Gold:
+  - Mod menu
+  - Netcode
+  - Port to other games?
