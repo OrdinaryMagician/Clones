@@ -12,9 +12,11 @@ Alpha:
     X Clone
   X Initial clone behavior
   X Voicing
-  - Explosion effects
-  - Configuration
+  X Explosion effects
+  X Configuration
 Beta:
+  - Smooth drifting
+  - Actual wallrunning physics
   - Bugfixing
   - Optimization
 Gold:
